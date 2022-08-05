@@ -1,0 +1,20 @@
+.nav-two {
+    width: 1340px;
+    font-size: 14px;
+}
+
+.btn-nav {
+    margin-right: 12px;
+    position: relative;
+}
+
+.dropdown {
+    width: 200px;
+    position: absolute;
+    top: 40px;
+    display: none;
+}
+
+.btn-nav:hover>.dropdown {
+    display: block;
+}

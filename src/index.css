@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    margin: 0;
+    font-family: 'Arial', 'Roboto';
+    font-size: 14px;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+.line {
+    width: 1100px;
+}
